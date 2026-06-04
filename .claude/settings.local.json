@@ -25,7 +25,8 @@
       "Bash(mv docs/plugins ./plugins)",
       "Bash(mv docs/.templates ./.templates)",
       "Bash(git commit -m 'fix: 内容文件移至根目录修复 VitePress 路由 *)",
-      "Bash(git commit -m 'fix: 修复 YAML hero actions 中 base 路径重复 *)"
+      "Bash(git commit -m 'fix: 修复 YAML hero actions 中 base 路径重复 *)",
+      "Bash(git commit -m 'fix: 侧边栏扩展到 plugin-index 和 scenario-nav 页面 *)"
     ]
   }
 }

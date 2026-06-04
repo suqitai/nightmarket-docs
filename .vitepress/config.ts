@@ -101,9 +101,11 @@ export default defineConfig({
       { text: '关于', link: '/about' },
     ],
 
-    // 侧边栏
+    // 侧边栏 — 全站统一显示插件目录
     sidebar: {
       '/plugins/': pluginSidebar,
+      '/plugin-index': pluginSidebar,
+      '/scenario-nav': pluginSidebar,
     },
 
     // 搜索
