@@ -244,16 +244,16 @@ claude plugins list | grep attune
 
 | 插件 | 协作方式 |
 |------|----------|
-| [spec-kit](../plugins/spec-kit.md) | 在 specify 阶段提供更精细的需求澄清和验收标准定义 |
-| [imbue](../plugins/imbue.md) | 在 execute 阶段强制执行 TDD、质量门禁和评分 |
-| [sanctum](../plugins/sanctum.md) | 在执行阶段管理 Git 工作流和版本发布 |
-| [pensive](../plugins/pensive.md) | 在 dorodango 阶段辅助代码审查 |
+| [spec-kit](./spec-kit.md) | 在 specify 阶段提供更精细的需求澄清和验收标准定义 |
+| [imbue](./imbue.md) | 在 execute 阶段强制执行 TDD、质量门禁和评分 |
+| [sanctum](./sanctum.md) | 在执行阶段管理 Git 工作流和版本发布 |
+| [pensive](./pensive.md) | 在 dorodango 阶段辅助代码审查 |
 
 ### 替代方案
 
 | 插件 | 差异对比 |
 |------|----------|
-| [spec-kit](../plugins/spec-kit.md) | 如果你只需要规格定义（不需要全周期管理），spec-kit 更轻量专注 |
+| [spec-kit](./spec-kit.md) | 如果你只需要规格定义（不需要全周期管理），spec-kit 更轻量专注 |
 
 ---
 
