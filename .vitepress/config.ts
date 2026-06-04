@@ -85,6 +85,7 @@ export default defineConfig({
   title: 'Night Market 插件手册',
   description: 'Claude Code Night Market 插件中文使用说明书',
   lang: 'zh-CN',
+  base: '/nightmarket-docs/',
 
 
   head: [
