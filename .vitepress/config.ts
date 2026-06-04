@@ -86,8 +86,6 @@ export default defineConfig({
   description: 'Claude Code Night Market 插件中文使用说明书',
   lang: 'zh-CN',
 
-  // 增量构建期间忽略死链，最终 QA 阶段移除（TASK-035）
-  ignoreDeadLinks: true,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

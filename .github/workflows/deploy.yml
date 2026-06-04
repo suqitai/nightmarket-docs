@@ -31,7 +31,7 @@ jobs:
         run: npm ci
 
       - name: Validate templates
-        run: bash scripts/validate.sh || echo "⚠️  Validation skipped (no plugins yet)"
+        run: bash scripts/validate.sh
 
       - name: Build VitePress
         run: npm run docs:build

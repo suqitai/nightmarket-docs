@@ -8,7 +8,11 @@
       "Bash(npm run *)",
       "Bash(gh auth *)",
       "Bash(git init *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(bash *)",
+      "Bash(git commit -m 'fix: 修复死链检测、更新 CI 验证、完善索引 *)"
     ]
   }
 }
