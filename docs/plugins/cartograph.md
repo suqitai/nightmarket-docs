@@ -92,9 +92,9 @@ claude plugins list | grep cartograph
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 cartograph 生成的架构图。运行 <code>bash scripts/screenshot.sh cartograph</code> 生成。
-</div>
+![cartograph 终端预览](/images/cartograph/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

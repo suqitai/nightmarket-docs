@@ -118,9 +118,9 @@ scope: project
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 hookify Hook 列表和测试结果。运行 <code>bash scripts/screenshot.sh hookify</code> 生成。
-</div>
+![hookify 终端预览](/images/hookify/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -143,9 +143,9 @@ scope: project
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 hookify 临时禁用和自动恢复。运行 <code>bash scripts/screenshot.sh hookify</code> 生成。
-</div>
+![hookify 终端预览](/images/hookify/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

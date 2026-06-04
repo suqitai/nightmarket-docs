@@ -107,9 +107,9 @@ claude plugins list | grep imbue
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 imbue TDD 的红绿状态切换。运行 <code>bash scripts/screenshot.sh imbue</code> 生成。
-</div>
+![imbue 终端预览](/images/imbue/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -132,9 +132,9 @@ claude plugins list | grep imbue
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 RICE 评分矩阵和排序结果。运行 <code>bash scripts/screenshot.sh imbue</code> 生成。
-</div>
+![imbue 终端预览](/images/imbue/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

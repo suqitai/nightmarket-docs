@@ -97,9 +97,9 @@ claude plugins list | grep scry
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 scry 录制设置面板。运行 <code>bash scripts/screenshot.sh scry</code> 生成。
-</div>
+![scry 终端预览](/images/scry/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

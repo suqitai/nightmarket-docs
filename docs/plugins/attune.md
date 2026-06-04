@@ -147,9 +147,9 @@ claude plugins list | grep attune
 **结果展示：**
 
 <!-- TODO: 添加截图 ![attune 头脑风暴流程](/images/attune/case1-brainstorm-flow.png) -->
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 attune:brainstorm 的苏格拉底式提问过程。运行 <code>bash scripts/screenshot.sh attune</code> 生成截图。
-</div>
+![attune 终端预览](/images/attune/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -173,9 +173,9 @@ claude plugins list | grep attune
 **结果展示：**
 
 <!-- TODO: 添加截图 ![war-room 评审结果](/images/attune/case2-warroom-report.png) -->
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 war-room 的多维度评分和建议。运行 <code>bash scripts/screenshot.sh attune</code> 生成截图。
-</div>
+![attune 终端预览](/images/attune/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

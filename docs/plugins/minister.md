@@ -106,9 +106,9 @@ claude plugins list | grep minister
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 minister 看板仪表盘。运行 <code>bash scripts/screenshot.sh minister</code> 生成。
-</div>
+![minister 终端预览](/images/minister/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -136,9 +136,9 @@ claude plugins list | grep minister
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 minister Sprint 报告。运行 <code>bash scripts/screenshot.sh minister</code> 生成。
-</div>
+![minister 终端预览](/images/minister/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

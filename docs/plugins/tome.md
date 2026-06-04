@@ -95,9 +95,9 @@ claude plugins list | grep tome
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 tome 多源研究报告。运行 <code>bash scripts/screenshot.sh tome</code> 生成。
-</div>
+![tome 终端预览](/images/tome/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

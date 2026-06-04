@@ -100,9 +100,9 @@ claude plugins list | grep egregore
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 egregore 多 Agent 并行进度面板。运行 <code>bash scripts/screenshot.sh egregore</code> 生成。
-</div>
+![egregore 终端预览](/images/egregore/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -128,9 +128,9 @@ claude plugins list | grep egregore
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 egregore 崩溃恢复和续接。运行 <code>bash scripts/screenshot.sh egregore</code> 生成。
-</div>
+![egregore 终端预览](/images/egregore/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

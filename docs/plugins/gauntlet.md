@@ -97,9 +97,9 @@ claude plugins list | grep gauntlet
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 gauntlet 知识图谱。运行 <code>bash scripts/screenshot.sh gauntlet</code> 生成。
-</div>
+![gauntlet 终端预览](/images/gauntlet/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

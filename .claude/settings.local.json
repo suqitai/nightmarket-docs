@@ -12,7 +12,10 @@
       "Bash(git remote *)",
       "Bash(git push *)",
       "Bash(bash *)",
-      "Bash(git commit -m 'fix: 修复死链检测、更新 CI 验证、完善索引 *)"
+      "Bash(git commit -m 'fix: 修复死链检测、更新 CI 验证、完善索引 *)",
+      "Bash(python3 -c \"from PIL import Image; print\\('Pillow available'\\)\")",
+      "Bash(python3 *)",
+      "Bash(git commit -m 'feat: 添加23个插件终端预览截图，替换占位符 *)"
     ]
   }
 }

@@ -110,9 +110,9 @@ claude plugins list | grep abstract
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 abstract create-skill 的开发流程。运行 <code>bash scripts/screenshot.sh abstract</code> 生成。
-</div>
+![abstract 终端预览](/images/abstract/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -139,9 +139,9 @@ claude plugins list | grep abstract
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 abstract skills-eval 的评分矩阵。运行 <code>bash scripts/screenshot.sh abstract</code> 生成。
-</div>
+![abstract 终端预览](/images/abstract/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

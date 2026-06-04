@@ -92,9 +92,9 @@ claude plugins list | grep pensive
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 pensive PR 审查报告。运行 <code>bash scripts/screenshot.sh pensive</code> 生成。
-</div>
+![pensive 终端预览](/images/pensive/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -118,9 +118,9 @@ claude plugins list | grep pensive
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 NASA 规则检查结果。运行 <code>bash scripts/screenshot.sh pensive</code> 生成。
-</div>
+![pensive 终端预览](/images/pensive/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

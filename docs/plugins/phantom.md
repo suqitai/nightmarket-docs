@@ -101,9 +101,9 @@ claude plugins list | grep phantom
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 phantom 截图选项面板。运行 <code>bash scripts/screenshot.sh phantom</code> 生成。
-</div>
+![phantom 终端预览](/images/phantom/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 

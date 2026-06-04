@@ -105,9 +105,9 @@ claude plugins list | grep leyline
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 leyline 安全审计报告。运行 <code>bash scripts/screenshot.sh leyline</code> 生成。
-</div>
+![leyline 终端预览](/images/leyline/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
@@ -131,9 +131,9 @@ claude plugins list | grep leyline
 
 **结果展示：**
 
-<div class="nm-tip">
-📸 <strong>截图待制作</strong>：展示 leyline 配额监控面板。运行 <code>bash scripts/screenshot.sh leyline</code> 生成。
-</div>
+![leyline 终端预览](/images/leyline/terminal-preview.png)
+
+*（占位截图 — 用 phantom 替换为实际操作截图）*
 
 ---
 
