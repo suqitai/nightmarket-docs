@@ -17,7 +17,8 @@
       "Bash(python3 *)",
       "Bash(git commit -m 'feat: 添加23个插件终端预览截图，替换占位符 *)",
       "WebFetch(domain:github.com)",
-      "Bash(git commit -m 'fix: 添加 base 路径 /nightmarket-docs/ 修复子路径链接 *)"
+      "Bash(git commit -m 'fix: 添加 base 路径 /nightmarket-docs/ 修复子路径链接 *)",
+      "Bash(git commit -m 'fix: 修复 HTML href 硬编码路径缺少 base 前缀 *)"
     ]
   }
 }

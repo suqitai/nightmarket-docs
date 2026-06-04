@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 浏览插件
-      link: /plugin-index
+      link: /nightmarket-docs/plugin-index
     - theme: alt
       text: 场景导航
-      link: /scenario-nav
+      link: /nightmarket-docs/scenario-nav
   image:
     src: /logo.svg
     alt: Night Market
@@ -53,22 +53,22 @@ claude plugins list
 ## 插件总览
 
 <div class="plugin-grid">
-  <a class="plugin-card" href="/plugins/attune">
+  <a class="plugin-card" href="/nightmarket-docs/plugins/attune">
     <div class="name">attune</div>
     <div class="desc">全周期项目开发 — 从头脑风暴到执行打磨</div>
     <span class="tag">开发流程</span>
   </a>
-  <a class="plugin-card" href="/plugins/pensive">
+  <a class="plugin-card" href="/nightmarket-docs/plugins/pensive">
     <div class="name">pensive</div>
     <div class="desc">多维度代码审查 — 架构/Bug/安全/NASA 10 条</div>
     <span class="tag">代码质量</span>
   </a>
-  <a class="plugin-card" href="/plugins/leyline">
+  <a class="plugin-card" href="/nightmarket-docs/plugins/leyline">
     <div class="name">leyline</div>
     <div class="desc">基础安全设施 — 认证、配额、注入检测</div>
     <span class="tag">安全</span>
   </a>
-  <a class="plugin-card" href="/plugins/egregore">
+  <a class="plugin-card" href="/nightmarket-docs/plugins/egregore">
     <div class="name">egregore</div>
     <div class="desc">自主 Agent 编排 — 并行 worktree、崩溃恢复</div>
     <span class="tag">Agent</span>

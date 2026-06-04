@@ -17,10 +17,10 @@
     <code>/attune:brainstorm</code> → <code>/attune:specify</code> → <code>/attune:blueprint</code> → <code>/attune:execute</code>
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/attune">attune</a>
-    <a class="plugin-link" href="/plugins/spec-kit">spec-kit</a>
-    <a class="plugin-link" href="/plugins/imbue">imbue</a>
-    <a class="plugin-link" href="/plugins/sanctum">sanctum</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/attune">attune</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/spec-kit">spec-kit</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/imbue">imbue</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/sanctum">sanctum</a>
   </div>
 </div>
 
@@ -39,9 +39,9 @@
     <code>/pensive:review</code> 负责代码 → <code>/scribe:review</code> 负责文档 → <code>abstract:skills-eval</code> 评估质量
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/pensive">pensive</a>
-    <a class="plugin-link" href="/plugins/scribe">scribe</a>
-    <a class="plugin-link" href="/plugins/abstract">abstract</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/pensive">pensive</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/scribe">scribe</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/abstract">abstract</a>
   </div>
 </div>
 
@@ -60,9 +60,9 @@
     <code>/archetypes:select</code> 选择范式 → <code>/cartograph:map</code> 可视化现状 → <code>/attune:blueprint</code> 规划重构
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/archetypes">archetypes</a>
-    <a class="plugin-link" href="/plugins/cartograph">cartograph</a>
-    <a class="plugin-link" href="/plugins/attune">attune</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/archetypes">archetypes</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/cartograph">cartograph</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/attune">attune</a>
   </div>
 </div>
 
@@ -81,9 +81,9 @@
     <code>/egregore:workflow</code> 编排主流程 → <code>/conjure:delegate</code> 分发给外部模型 → <code>/minister:track</code> 追踪进度
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/egregore">egregore</a>
-    <a class="plugin-link" href="/plugins/conjure">conjure</a>
-    <a class="plugin-link" href="/plugins/minister">minister</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/egregore">egregore</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/conjure">conjure</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/minister">minister</a>
   </div>
 </div>
 
@@ -102,9 +102,9 @@
     <code>/gauntlet:learn</code> 建立知识图谱 → <code>/tome:research</code> 研究历史背景 → <code>/cartograph:map</code> 可视化调用链
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/gauntlet">gauntlet</a>
-    <a class="plugin-link" href="/plugins/tome">tome</a>
-    <a class="plugin-link" href="/plugins/cartograph">cartograph</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/gauntlet">gauntlet</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/tome">tome</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/cartograph">cartograph</a>
   </div>
 </div>
 
@@ -123,9 +123,9 @@
     <code>/abstract:create-skill</code> 创建 Skill → <code>leyline:supply-chain-advisory</code> 审计依赖 → <code>/hookify:validate</code> 验证 Hook
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/abstract">abstract</a>
-    <a class="plugin-link" href="/plugins/leyline">leyline</a>
-    <a class="plugin-link" href="/plugins/hookify">hookify</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/abstract">abstract</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/leyline">leyline</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/hookify">hookify</a>
   </div>
 </div>
 
@@ -144,9 +144,9 @@
     <code>/minister:dashboard</code> 查看看板 → <code>/herald:notify</code> 发送通知 → <code>/sanctum:pr</code> 管理 PR
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/minister">minister</a>
-    <a class="plugin-link" href="/plugins/herald">herald</a>
-    <a class="plugin-link" href="/plugins/sanctum">sanctum</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/minister">minister</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/herald">herald</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/sanctum">sanctum</a>
   </div>
 </div>
 
@@ -165,9 +165,9 @@
     <code>/conserve:analyze</code> 分析 Token 使用 → <code>/parseltongue:profile</code> 性能分析 → 针对性优化
   </div>
   <div class="plugins">
-    <a class="plugin-link" href="/plugins/conserve">conserve</a>
-    <a class="plugin-link" href="/plugins/parseltongue">parseltongue</a>
-    <a class="plugin-link" href="/plugins/oracle">oracle</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/conserve">conserve</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/parseltongue">parseltongue</a>
+    <a class="plugin-link" href="/nightmarket-docs/plugins/oracle">oracle</a>
   </div>
 </div>
 
