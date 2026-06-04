@@ -1,0 +1,15 @@
+{
+  "name": "nightmarket-docs",
+  "version": "0.1.0",
+  "description": "Night Market - Claude Code 插件中文使用说明书",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "validate": "bash scripts/validate.sh"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.0"
+  }
+}

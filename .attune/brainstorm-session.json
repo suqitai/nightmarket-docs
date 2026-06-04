@@ -1,0 +1,28 @@
+{
+  "session_id": "20260604-145000",
+  "phase": "brief-generated",
+  "domain": "NightMarket使用说明",
+  "problem": "为Night Market的23个Claude Code插件编写详细中文使用说明书",
+  "constraints": [
+    "VitePress静态站点",
+    "GitHub Pages部署",
+    "phantom + scry制作截图录屏",
+    "质量优先，时间灵活",
+    "模板驱动，方便维护"
+  ],
+  "approaches": {
+    "selected": "模板驱动 + 半自动化",
+    "rationale": "模板保证一致性，AI辅助生成初稿提升效率，人工审核确保质量"
+  },
+  "decisions": {
+    "format": "VitePress静态网站",
+    "depth": "全面覆盖23个插件",
+    "media": "phantom截图 + scry录屏",
+    "maintenance": "模板规范驱动",
+    "deployment": "GitHub Pages + GitHub Actions",
+    "structure": "插件索引 + 场景导航结合",
+    "timeline": "质量优先，分4阶段实施"
+  },
+  "output": "docs/project-brief.md",
+  "timestamp": "2026-06-04T14:50:00Z"
+}
