@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 浏览插件
-      link: /nightmarket-docs/plugin-index
+      link: /plugin-index
     - theme: alt
       text: 场景导航
-      link: /nightmarket-docs/scenario-nav
+      link: /scenario-nav
   image:
     src: /logo.svg
     alt: Night Market
